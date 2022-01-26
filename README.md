@@ -1,5 +1,5 @@
 # nice-to-meet-you-
-prazer em te conhecer
+program i made with python
 
 #________________________________
 
